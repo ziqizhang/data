@@ -1,6 +1,6 @@
 # Datasets 
 
-This page shares [Ziqi Zhang]'s research datasets. Please follow the links below to find the datasets you need.
+This page shares [Ziqi Zhang]'s research datasets. Please follow the links below to find the datasets you need. Please also read the 'readme' file downloaded with each dataset, and respect the licence. I would be grateful if you cite our work (see below) when using data shared on this site. Thanks.
 
   * [Hate Speech](#hate)
   * [Ontology Mapping](#ontomap)
