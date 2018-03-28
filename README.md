@@ -15,9 +15,11 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 **Description**: dataset used for evaluating automatic term extraction/recognition. <br/>
 **Keywords**: automatic term extraction or recognition, ATE, ATR, text mining <br/>
 **Related Wikipedia page**: [Terminology extraction] <br/>
+**Related code/project**: [SemRe-Rank] <br/>
 **Data folder**: [/terminology extraction]
 
 [Ziqi Zhang]: <https://ziqizhang.github.io/>
 [SemRe-Rank: Improving Automatic Term Extraction By Incorporating Semantic Relatedness With Personalised PageRank]: <https://arxiv.org/abs/1711.03373>
 [Terminology Extraction]: <https://en.wikipedia.org/wiki/Terminology_extraction>
+[SemRe-Rank]: <https://github.com/ziqizhang/semrerank>
 [/terminology extraction]:  <https://github.com/ziqizhang/data/tree/master/terminology%20extraction>
