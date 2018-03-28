@@ -13,7 +13,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 **If you use this dataset, please cite:** Zhang, Z., Gao, J., Ciravegna, F. 2018. [SemRe-Rank: Improving Automatic Term Extraction By Incorporating Semantic Relatedness With Personalised PageRank]. Accepted by the Transactions of Knowledge Discovery from Data (TKDD)
 
 **Description**: dataset used for evaluating automatic term extraction/recognition. <br/>
-**Keywords**: automatic term extraction or recognition, ATE, ATR, text mining <br/>
+**Keywords**: automatic term extraction or recognition, ATE, ATR, text mining, terminology, thesaurus, glossary, ontology engineering <br/>
 **Related Wikipedia page**: [Terminology extraction] <br/>
 **Related code/project**: [SemRe-Rank] <br/>
 **Data folder**: [/terminology extraction]
