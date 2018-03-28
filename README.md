@@ -9,6 +9,6 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
   * [Terminology Extraction](#ate)
   * [Webtable Entity Linking](#webtable)
 
-<a name="hate">This is hate speech</a>
+### <a name="hate">This is hate speech</a>
 
 [Ziqi Zhang]: <https://ziqizhang.github.io/>
