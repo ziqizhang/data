@@ -9,7 +9,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
   * [Terminology Extraction](#ate)
   * [Webtable Entity Linking](#webtable)
 
-### <a name="ate">Terminology Extraction</a>
+### <a name="ate">+ Terminology Extraction</a>
 **If you use this dataset, please cite:** Zhang, Z., Gao, J., Ciravegna, F. 2018. [SemRe-Rank: Improving Automatic Term Extraction By Incorporating Semantic Relatedness With Personalised PageRank]. Accepted by the Transactions of Knowledge Discovery from Data (TKDD)
 
 **Description**: dataset used for evaluating automatic term extraction/recognition. <br/>
