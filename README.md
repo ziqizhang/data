@@ -47,6 +47,17 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 **Related code/project**: [SemRe-Rank] <br/>
 **Data folder**: [/terminology extraction]
 
+
+### <a name="webtable">+ Webtable Entity Linking</a>
+**If you use this dataset, please cite:** Zhang, Z. 2017. [Effective and efficient semantic table interpretation using tableminer+]. Semantic Web 8 (6), 921-957
+
+**Description**: dataset used for evaluating entity linking in webtables, and also table header classification and relation annotation; contains 16,000+ annotated relational tables that can be used for many studies related to webtables. <br/>
+**Related Wikipedia page**: [Entity linking] <br/>
+**Keywords**: webtable, web table, entity linking, classification, relation extraction<br/>
+**Related code/project**: [sti] <br/>
+**Data folder**: [/webtable entity linking]
+
+
 [Ziqi Zhang]: <https://ziqizhang.github.io/>
 [SemRe-Rank: Improving Automatic Term Extraction By Incorporating Semantic Relatedness With Personalised PageRank]: <https://arxiv.org/abs/1711.03373>
 [Terminology Extraction]: <https://en.wikipedia.org/wiki/Terminology_extraction>
@@ -61,4 +72,8 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 [Entity Deduplication on ScholarlyData]: <http://www.scholarlydata.org/papers/eswc2017/dataCleaning.html>
 [Author name disambiguation]: <https://en.wikipedia.org/wiki/Author_Name_Disambiguation>
 [scholarlydata]: <http://www.scholarlydata.org/>
-[/scholarly data linking]: <>
+[/scholarly data linking]: <https://github.com/ziqizhang/data/tree/master/scholarly%20data%20linking>
+[sti]: <https://github.com/ziqizhang/sti>
+[/terminology extraction]: <>
+[Effective and efficient semantic table interpretation using tableminer+]: <http://www.semantic-web-journal.net/content/effective-and-efficient-semantic-table-interpretation-using-tableminer-0>
+[Entity linking]: <https://en.wikipedia.org/wiki/Entity_linking>
