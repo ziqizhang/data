@@ -4,11 +4,9 @@ Z. Zhang, A. Gentile, E. Blomqvist, I. Augenstein, F. Ciravegna. 2016. An unsupe
 
 For the descriptions of each dataset, see Section 4.5.2 in the paper. 
 
-For each dataset there is 
-"pair"     - annotated pair-wise equivalence
-"clusters" - gs for evaluating clustering of equivalent relations, derived from "pair" data
+For each dataset there is "pair" - annotated pair-wise equivalence; and "clusters" - gs for evaluating clustering of equivalent relations, derived from "pair" data
 
-Files inside "pair" have 6 columns
+Files inside "pair" have 6 columns: 
 1 - relation 1 url; 
 2 - relation 2 url; 
 3 - ignore; 
@@ -17,7 +15,7 @@ Files inside "pair" have 6 columns
 6 - annotation (1-true pos; -1 true neg; 0-don't know; all others should be considered -1)
 
 
-Files inside "cluster" have 7 columns
+Files inside "cluster" have 7 columns: 
 1 - cluster id; 
 2 - relation 1 url; 
 3 - relation 2 url; 

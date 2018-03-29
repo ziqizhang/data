@@ -22,8 +22,21 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 
 **Description**: dataset used for evaluating mapping relations collected from DBpedia <br/>
 **Keywords**: ontology mapping, ontology alignment, DBpedia <br/>
+**Related Wikipedia page**: [Ontology alignment] <br/>
 **Related code/project**: [LODIE] <br/>
 **Data folder**: [/ontology mapping]
+
+
+### <a name="scholarlydata">+ Scholarly Data Linking</a>
+**If you use this dataset, please cite:** Z. Zhang, A. N. Nuzzolese, and A. L. Gentile. [Entity Deduplication on ScholarlyData]. In Proceedings of ESWC 2017, pp 85-100, Lecture Notes in Computer Science. Springer, 2017.
+
+**Description**: dataset used for evaluating author name and organisation linking in scholarly data <br/>
+**Keywords**: author name disambiguation, link discovery, entity linking, entity disambiguation <br/>
+**Related Wikipedia page**: [Author name disambiguation] <br/>
+**Related code/project**: [scholarlydata] <br/>
+**Data folder**: [/scholarly data linking]
+
+
 
 ### <a name="ate">+ Terminology Extraction</a>
 **If you use this dataset, please cite:** Zhang, Z., Gao, J., Ciravegna, F. 2018. [SemRe-Rank: Improving Automatic Term Extraction By Incorporating Semantic Relatedness With Personalised PageRank]. Accepted by the Transactions of Knowledge Discovery from Data (TKDD)
@@ -44,3 +57,8 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 [LODIE]: <http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J019488/1>
 [/ontology mapping]: <https://github.com/ziqizhang/data/tree/master/ontology%20mapping>
 [An unsupervised data driven method to discover equivalent relations in large Linked Datasets]: <https://content.iospress.com/download/semantic-web/sw193?id=semantic-web%2Fsw193>
+[Ontology alignment]: <https://en.wikipedia.org/wiki/Ontology_alignment>
+[Entity Deduplication on ScholarlyData]: <http://www.scholarlydata.org/papers/eswc2017/dataCleaning.html>
+[Author name disambiguation]: <https://en.wikipedia.org/wiki/Author_Name_Disambiguation>
+[scholarlydata]: <http://www.scholarlydata.org/>
+[/scholarly data linking]: <>
