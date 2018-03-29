@@ -9,21 +9,21 @@ For each dataset there is
 "clusters" - gs for evaluating clustering of equivalent relations, derived from "pair" data
 
 Files inside "pair" have 6 columns
-1 - relation 1 url
-2 - relation 2 url
-3 - ignore
-4 - ignore
-5 - ignore
+1 - relation 1 url; 
+2 - relation 2 url; 
+3 - ignore; 
+4 - ignore; 
+5 - ignore; 
 6 - annotation (1-true pos; -1 true neg; 0-don't know; all others should be considered -1)
 
 
 Files inside "cluster" have 7 columns
-1 - cluster id
-2 - relation 1 url
-3 - relation 2 url
-4 - ignore
-5 - ignore
-6 - ignore
+1 - cluster id; 
+2 - relation 1 url; 
+3 - relation 2 url; 
+4 - ignore; 
+5 - ignore; 
+6 - ignore; 
 7 - annotation (should always be 1)
 
 

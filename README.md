@@ -18,7 +18,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 **Data folder**: [/hate speech]
 
 ### <a name="ontomap">+ Ontology Mapping</a>
-**If you use this dataset, please cite:** Z. Zhang, A. Gentile, E. Blomqvist, I. Augenstein, F. Ciravegna. 2016. [An unsupervised data-driven method to discover equivalent relations in large Linked Datasets]. Semantic web 8 (2), 197-223
+**If you use this dataset, please cite:** Z. Zhang, A. Gentile, E. Blomqvist, I. Augenstein, F. Ciravegna. 2016. [An unsupervised data driven method to discover equivalent relations in large Linked Datasets]. Semantic web 8 (2), 197-223
 
 **Description**: dataset used for evaluating mapping relations collected from DBpedia <br/>
 **Keywords**: ontology mapping, ontology alignment, DBpedia <br/>
@@ -42,5 +42,5 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 [/hate speech]: <https://github.com/ziqizhang/data/tree/master/hate%20speech>
 [/terminology extraction]:  <https://github.com/ziqizhang/data/tree/master/terminology%20extraction>
 [LODIE]: <http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J019488/1>
-[/ontology mapping]: <>
-[An unsupervised data-driven method to discover equivalent relations in large Linked Datasets]: <https://content.iospress.com/download/semantic-web/sw193?id=semantic-web%2Fsw193>
+[/ontology mapping]: <https://github.com/ziqizhang/data/tree/master/ontology%20mapping>
+[An unsupervised data driven method to discover equivalent relations in large Linked Datasets]: <https://content.iospress.com/download/semantic-web/sw193?id=semantic-web%2Fsw193>
