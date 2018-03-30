@@ -1,6 +1,8 @@
 # Datasets 
 
-This page shares [Ziqi Zhang]'s research datasets. Please follow the links below to find the datasets you need. Please also read the 'readme' file downloaded with each dataset, and respect the licence. I would be grateful if you cite our work (see below) when using data shared on this site. Thanks.
+This page shares [Ziqi Zhang]'s research datasets. Please follow the links below to find the datasets you need. All data are distributed under the Creative Commons CC-BY Licence, unless otherwise stated. Please also read the 'readme' file downloaded with each dataset. I would be grateful if you cite our work (see below) when using data shared on this site. Thanks.
+
+**NOTE**: you are recommended **NOT** to check out the entire respository, but nagivate to specific dataset and download them there. This is because some datasets can be very large but maybe irrelevant to your research.
 
   * [Hate Speech](#hate)
   * [Ontology Mapping](#ontomap)
@@ -74,6 +76,6 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 [scholarlydata]: <http://www.scholarlydata.org/>
 [/scholarly data linking]: <https://github.com/ziqizhang/data/tree/master/scholarly%20data%20linking>
 [sti]: <https://github.com/ziqizhang/sti>
-[/terminology extraction]: <>
+[/webtable entity linking]: <https://github.com/ziqizhang/data/tree/master/webtable%20entity%20linking>
 [Effective and efficient semantic table interpretation using tableminer+]: <http://www.semantic-web-journal.net/content/effective-and-efficient-semantic-table-interpretation-using-tableminer-0>
 [Entity linking]: <https://en.wikipedia.org/wiki/Entity_linking>
