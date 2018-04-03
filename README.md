@@ -28,6 +28,13 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 **Related code/project**: [LODIE] <br/>
 **Data folder**: [/ontology mapping]
 
+### <a name="ontomap">+ Procedural knowledge</a>
+**If you use this dataset, please cite:** Z. Zhang, A. Gentile, E. Blomqvist, I. Augenstein, F. Ciravegna. 2016. [An unsupervised data driven method to discover equivalent relations in large Linked Datasets]. Semantic web 8 (2), 197-223
+
+**Description**: dataset containing annotated instructions that describe procedures (e.g., how to cook a recipe, how to mount snow chain on wheels etc. <br/>
+**Keywords**: procedure, instruction, annotation, classification<br/>
+**Related Wikipedia page**: [Procedural knowledge] <br/>
+**Data folder**: [/procedural knowledge]
 
 ### <a name="scholarlydata">+ Scholarly Data Linking</a>
 **If you use this dataset, please cite:** Z. Zhang, A. N. Nuzzolese, and A. L. Gentile. [Entity Deduplication on ScholarlyData]. In Proceedings of ESWC 2017, pp 85-100, Lecture Notes in Computer Science. Springer, 2017.
@@ -41,7 +48,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 
 
 ### <a name="ate">+ Terminology Extraction</a>
-**If you use this dataset, please cite:** Zhang, Z., Gao, J., Ciravegna, F. 2018. [SemRe-Rank: Improving Automatic Term Extraction By Incorporating Semantic Relatedness With Personalised PageRank]. Accepted by the Transactions of Knowledge Discovery from Data (TKDD)
+**If you use this dataset, please cite:** Z. Zhang, P. Webster, V. Uren, A. Varga, F. Ciravegna. 2012. [Automatically Extracting Procedural Knowledge from Instructional Texts using Natural Language Processing]. LREC 2012 (520-527), 520-527
 
 **Description**: dataset used for evaluating automatic term extraction/recognition. <br/>
 **Keywords**: automatic term extraction or recognition, ATE, ATR, text mining, terminology, thesaurus, glossary, ontology engineering <br/>
@@ -79,3 +86,6 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 [/webtable entity linking]: <https://github.com/ziqizhang/data/tree/master/webtable%20entity%20linking>
 [Effective and efficient semantic table interpretation using tableminer+]: <http://www.semantic-web-journal.net/content/effective-and-efficient-semantic-table-interpretation-using-tableminer-0>
 [Entity linking]: <https://en.wikipedia.org/wiki/Entity_linking>
+[Procedural knowledge]: <https://en.wikipedia.org/wiki/Procedural_knowledge>
+[/procedural knowledge]: <https://github.com/ziqizhang/data/tree/master/procedural%20knowledge>
+[Automatically Extracting Procedural Knowledge from Instructional Texts using Natural Language Processing]: <http://lrec.elra.info/proceedings/lrec2012/pdf/244_Paper.pdf>
