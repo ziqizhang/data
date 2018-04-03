@@ -29,7 +29,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 **Data folder**: [/ontology mapping]
 
 ### <a name="ontomap">+ Procedural knowledge</a>
-**If you use this dataset, please cite:** Z. Zhang, A. Gentile, E. Blomqvist, I. Augenstein, F. Ciravegna. 2016. [An unsupervised data driven method to discover equivalent relations in large Linked Datasets]. Semantic web 8 (2), 197-223
+**If you use this dataset, please cite:** Z. Zhang, P. Webster, V. Uren, A. Varga, F. Ciravegna. 2012. [Automatically Extracting Procedural Knowledge from Instructional Texts using Natural Language Processing]. LREC 2012 (520-527), 520-527
 
 **Description**: dataset containing annotated instructions that describe procedures (e.g., how to cook a recipe, how to mount snow chain on wheels etc. <br/>
 **Keywords**: procedure, instruction, annotation, classification<br/>
@@ -48,7 +48,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 
 
 ### <a name="ate">+ Terminology Extraction</a>
-**If you use this dataset, please cite:** Z. Zhang, P. Webster, V. Uren, A. Varga, F. Ciravegna. 2012. [Automatically Extracting Procedural Knowledge from Instructional Texts using Natural Language Processing]. LREC 2012 (520-527), 520-527
+**If you use this dataset, please cite:** Z. Zhang, J. Gao, F. Ciravegna. 2018. [SemRe-Rank: Improving Automatic Term Extraction By Incorporating Semantic Relatedness With Personalised PageRank]. Accepted at ACM Transactions of Knowledge Discovery from Data
 
 **Description**: dataset used for evaluating automatic term extraction/recognition. <br/>
 **Keywords**: automatic term extraction or recognition, ATE, ATR, text mining, terminology, thesaurus, glossary, ontology engineering <br/>
