@@ -28,7 +28,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
 **Related code/project**: [LODIE] <br/>
 **Data folder**: [/ontology mapping]
 
-### <a name="ontomap">+ Procedural knowledge</a>
+### <a name="procknow">+ Procedural knowledge</a>
 **If you use this dataset, please cite:** Z. Zhang, P. Webster, V. Uren, A. Varga, F. Ciravegna. 2012. [Automatically Extracting Procedural Knowledge from Instructional Texts using Natural Language Processing]. LREC 2012 (520-527), 520-527
 
 **Description**: dataset containing annotated instructions that describe procedures (e.g., how to cook a recipe, how to mount snow chain on wheels etc. <br/>
