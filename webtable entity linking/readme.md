@@ -12,8 +12,6 @@ All data are described in Section 10.1 of the paper, unless otherwise stated:
 
 **NOTE 1**: Since Freebase has been shut down after the publication of this work and data, it is not possible to use the annotation gold standard directly. However, it is still possible to fetch entries from Wikidata using Freebase ids. For example, see [this thread] for a discussion of work-around.
 
-**NOTE 2**: It is possible that since our experiments, Freebase was updated and therefore, some annotations can become obsolete. To facilitate re-producible experiments, we have cached and released all Freebase query results during our experiment. These cached data are in excess of 10GB and cannot be hosted here. If you are interested, please contact [Ziqi Zhang] to obtain them.
-
 Each dataset contains raw table content (webpages for IMDB and MusicBrainz; XML for Limaye) usually located in a folder called 'raw', and annotations usually located in a folder called 'gs'.
 
 The 'gs' folder can further contain annotations for table cells (entities), column headers (header, named entity + property), and column relations (relation). The annotation files for each raw table is named after the same table filename, followed by and extension that looks like 'cell.keys' for table cell annotations; 'header.keys' for table column annotations; and 'relation.keys' for column-column relation annotations. Below we explain the format within each annotation files.
