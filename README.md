@@ -12,7 +12,7 @@ This page shares [Ziqi Zhang]'s research datasets. Please follow the links below
   * [Webtable Entity Linking](#webtable)
 
 ### <a name="hate">+ Hate Speech</a>
-**If you use this dataset, please cite:** Zhang, Z., Robinson, D., Tepper, J. (2018). Detecting Hate Speech on Twitter Using a Convolution-GRU Based Deep Neural Network. To appear in the 2018 Extended Semantic Web Conference.
+**If you use the RM dataset within this collection, please cite:** Zhang, Z., Robinson, D., Tepper, J. (2018). Detecting Hate Speech on Twitter Using a Convolution-GRU Based Deep Neural Network. To appear in the 2018 Extended Semantic Web Conference. For other datasets included in the collection please give credits to their original distributors.
 
 **Description**: dataset used for evaluating hate speech on Twitter. <br/>
 **Keywords**: hate speech, Twitter, social media, abusive language, classification <br/>
